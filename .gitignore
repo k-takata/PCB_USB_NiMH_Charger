@@ -1,0 +1,13 @@
+/Gerber
+/PCB_USB_NiMH_Charger-backups
+/fp-info-cache
+
+*~
+.~*
+
+*.csv
+*.gbr
+*.gbrjob
+*.drl
+*.xml
+*.zip
