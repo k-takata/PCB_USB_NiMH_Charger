@@ -11,11 +11,11 @@ KiCad 7.0
 
 ## 回路図
 
-[![schema](image/schema.png)](image/schema.pdf)
+[![schema](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/schema.png)](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/schema.pdf)
 
 ## 基板パターン図
 
-![PCB pattern](image/pcb-pattern.png)
+![PCB pattern](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/pcb-pattern.png)
 
 ## 部品表
 
