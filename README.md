@@ -25,15 +25,15 @@ KiCad 7.0
 |C1, C4, C5, C6       |   4|0.1μF|積層セラミックコンデンサー|
 |C2                   |   1|100μF|電解コンデンサー (100 ~ 470μF)|
 |C3                   |   1| 10μF|電解コンデンサー|
-|D1                   |   1|      |[11EQS04](https://akizukidenshi.com/catalog/g/gI-11363/) ショットキーバリアダイオード|
+|D1                   |   1|[11EQS04](https://akizukidenshi.com/catalog/g/gI-11363/)|ショットキーバリアダイオード|
 |D2, D3               |   2|      |赤色LED|
 |F1                   |   1|  1.1A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/gP-00507/)|
 |J1                   |   1|      |[USB Type-C コネクター](https://akizukidenshi.com/catalog/g/gK-13080/)、[同等品](https://akizukidenshi.com/catalog/g/gK-15426/)でも可|
 |J2                   |   1|      |ピンヘッダー 1x2、強制充電用|
 |J3, J4               |   2|      |ピンヘッダー 1x2、単3/単4切り替え用|
-|Q1                   |   1|      |2SA1015|
-|Q2, Q4               |   2|      |2SC1815|
-|Q3, Q5               |   2|      |[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)|
+|Q1                   |   1|2SA1015||
+|Q2, Q4               |   2|2SC1815||
+|Q3, Q5               |   2|[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)||
 |R1, R2               |   2|5.1kΩ|小型|
 |R3                   |   1| 10kΩ|半固定抵抗RV1と同じ値|
 |R4, R5, R9, R11, R15 |   5| 10kΩ||
@@ -42,8 +42,8 @@ KiCad 7.0
 |R8, R14              |   2|  1MΩ||
 |R10, R16             |   2| 680Ω||
 |RV1                  |   1| 10kΩ|抵抗R3と同じ値、[GF063P](https://akizukidenshi.com/catalog/g/gP-14905/)|
-|U1                   |   1|      |[LM393](https://akizukidenshi.com/catalog/g/gI-16987/)、2回路入りコンパレーター|
-|U2                   |   1|      |[S-812C33](https://akizukidenshi.com/catalog/g/gI-03289/)、低損失CMOS三端子レギュレーター 3.3V 50mA|
+|U1                   |   1|[LM393](https://akizukidenshi.com/catalog/g/gI-16987/)|2回路入りコンパレーター|
+|U2                   |   1|[S-812C33](https://akizukidenshi.com/catalog/g/gI-03289/)|低損失CMOS三端子レギュレーター 3.3V 50mA|
 
 
 ## いたわりNiCd充電器からの変更点
