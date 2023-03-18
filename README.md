@@ -72,6 +72,10 @@ KiCad 7.0
 
 J2を接続し、RV1を右に回しきって、700mAhの単4なら15時間程度、2000mAhの単3なら17時間程度充電します。電池を外して20分程度置いてから、再度電池を入れます。RV1を回して、LEDが点滅する位置に合わせて終了です。Vrefの電圧は1.40~1.45V程度になっているのが想定です。
 
+## 完成品
+
+[![完成品](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/usb-slow-charger-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/usb-slow-charger.jpg)
+
 ## License
 
 CC0
