@@ -4,6 +4,8 @@
 
 [秋月電子](https://akizukidenshi.com/)の[いたわりNiCd充電器 キット](https://akizukidenshi.com/download/kairo/%E3%83%87%E3%83%BC%E3%82%BF/%E5%85%85%E9%9B%BB%E5%99%A8%E9%96%A2%E4%BF%82/H001%E3%81%84%E3%81%9F%E3%82%8F%E3%82%8ANiCd_.pdf)を元に、USBを電源とし、ニッケル水素電池を1本単位で2本まで充電できるようにした充電器です。
 
+※単3と単4をそれぞれ2本ずつの計4本充電できるバージョンは[別ブランチ](https://github.com/k-takata/PCB_USB_NiMH_Charger/tree/batt-4)で準備しています。
+
 ## 使用したソフトウェア
 
 KiCad 7.0
