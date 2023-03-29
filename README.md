@@ -1,4 +1,4 @@
-# USB NiMH ゆっくり充電器 (USB NiMH Slow Charger)
+# USB NiMH ゆっくり充電器 (USB NiMH Slow Charger) rev. 3
 
 ## 概要
 
