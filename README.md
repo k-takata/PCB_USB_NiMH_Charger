@@ -38,8 +38,8 @@ KiCad 7.0
 |R4, R5, R9, R13, R17  |   5| 10kΩ|茶黒橙金|
 |R6, R10, R14, R18     |   4|  1MΩ|茶黒緑金|
 |R7, R11               |   2|2.7kΩ|赤紫赤金、小型|
-|R15, R19              |   2|1.6kΩ|茶青赤金、小型|
 |R8, R12               |   2|  15Ω|茶緑黒金、1/2W 小型|
+|R15, R19              |   2|1.6kΩ|茶青赤金、小型|
 |R16, R20              |   2| 5.6Ω|緑青金金、1/2W 小型|
 |RV1                   |   1| 10kΩ|抵抗R3と同じ値、[GF063P](https://akizukidenshi.com/catalog/g/gP-14905/)|
 |U1                    |   1|[μPC339C](https://akizukidenshi.com/catalog/g/gI-12556/)|4回路入りコンパレーター、[LM339](https://akizukidenshi.com/catalog/g/gI-00436/)でも可|
