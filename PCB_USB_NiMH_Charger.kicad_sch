@@ -5,8 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "USB NiMH slow charger rev. 2")
+    (title "USB NiMH slow charger")
     (date "2023-03-22")
+    (rev "2")
     (company "K.Takata")
   )
 
