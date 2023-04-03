@@ -27,7 +27,7 @@ KiCad 7.0
 |C2                    |   1|100μF|電解コンデンサー φ5[^1]|
 |C3                    |   1| 10μF|[積層セラミックコンデンサー 10μF](https://akizukidenshi.com/catalog/g/gP-03095/)|
 |D1                    |   1|[11EQS03L](https://akizukidenshi.com/catalog/g/gI-08997/)|ショットキーバリアダイオード|
-|D2, D3, D4, D5        |   4|      |[低消費赤色LED](https://akizukidenshi.com/catalog/g/gI-16914/)|
+|D2, D3, D4, D5        |   4|      |[低消費赤色LED](https://akizukidenshi.com/catalog/g/gI-16914/)。眩しい場合は[LED光拡散キャップ](https://akizukidenshi.com/catalog/g/gI-01120/)が使える。|
 |F1                    |   1|  1.1A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/gP-00507/)|
 |J1                    |   1|UJC-HP-3-SMT-TR|[USB Type-C コネクター 電源供給用](https://akizukidenshi.com/catalog/g/gC-16438/)|
 |J2                    |   1|      |ピンヘッダー 1x2、強制充電用|
