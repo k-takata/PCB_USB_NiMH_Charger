@@ -94,10 +94,7 @@ J2を接続し、RV1を右に回しきって、700mAhの単4なら15時間程度
 
 ## 完成品
 
-準備中
-<!--
-[![完成品](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/usb-slow-charger-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/master/images/usb-slow-charger.jpg)
--->
+[![完成品](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/batt-4/images/usb-slow-charger-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_NiMH_Charger/batt-4/images/usb-slow-charger.jpg)
 
 ## License
 
