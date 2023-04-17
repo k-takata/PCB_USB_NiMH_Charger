@@ -32,7 +32,7 @@ KiCad 7.0
 |J1                    |   1|UJC-HP-3-SMT-TR|[USB Type-C コネクター 電源供給用](https://akizukidenshi.com/catalog/g/gC-16438/)|
 |J2                    |   1|      |ピンヘッダー 1x2、強制充電用|
 |Q1                    |   1|2SA1015||
-|Q2, Q3, Q4, Q5        |   4|[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)|裏面に取り付け|
+|Q2, Q3, Q4, Q5        |   4|[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)|裏面に取り付け。他の代替候補としては[2SA1441](https://akizukidenshi.com/catalog/g/gI-16790/)や[TTA008B](https://akizukidenshi.com/catalog/g/gI-09938/)などがある。（TTA008Bは2SB834とはピン配置が異なるので裏返して取り付ける。）|
 |R1, R2                |   2|5.1kΩ|緑茶赤金、小型|
 |R3                    |   1| 10kΩ|茶黒橙金、半固定抵抗RV1と同じ値|
 |R4, R5, R9, R13, R17  |   5| 10kΩ|茶黒橙金|
