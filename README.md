@@ -35,7 +35,7 @@ KiCad 7.0
 |J3, J4               |   2|      |ピンヘッダー 1x2、単3/単4切り替え用|
 |Q1                   |   1|2SA1015||
 |Q2, Q4               |   2|2SC1815||
-|Q3, Q5               |   2|[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)||
+|Q3, Q5               |   2|[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)|他の代替候補としては[2SA1441](https://akizukidenshi.com/catalog/g/gI-16790/)や[TTA008B](https://akizukidenshi.com/catalog/g/gI-09938/)、[2SB1185](https://akizukidenshi.com/catalog/g/gI-10994/) (h<sub>FE</sub> class E)などがある。（TTA008Bは2SB834などとはピン配置が異なるので裏返して取り付ける。）|
 |R1, R2               |   2|5.1kΩ|緑茶赤金、小型|
 |R3                   |   1| 10kΩ|茶黒橙金、半固定抵抗RV1と同じ値|
 |R4, R5, R9, R11, R15 |   5| 10kΩ|茶黒橙金|
