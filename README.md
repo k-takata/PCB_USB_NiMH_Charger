@@ -2,7 +2,7 @@
 
 ## 概要
 
-[秋月電子](https://akizukidenshi.com/)の[いたわりNiCd充電器 キット](https://akizukidenshi.com/download/kairo/%E3%83%87%E3%83%BC%E3%82%BF/%E5%85%85%E9%9B%BB%E5%99%A8%E9%96%A2%E4%BF%82/H001%E3%81%84%E3%81%9F%E3%82%8F%E3%82%8ANiCd_.pdf)を元に、USBを電源とし、ニッケル水素電池を1本単位で単3、単4それぞれ2本（合計4本）まで充電できるようにした充電器です。
+[秋月電子](https://akizukidenshi.com/)の[いたわりNiCd充電器 キット](https://akizukidenshi.com/img/contents/kairo/%E3%83%87%E3%83%BC%E3%82%BF/%E5%85%85%E9%9B%BB%E5%99%A8%E9%96%A2%E4%BF%82/H001%E3%81%84%E3%81%9F%E3%82%8F%E3%82%8ANiCd_.pdf)を元に、USBを電源とし、ニッケル水素電池を1本単位で単3、単4それぞれ2本（合計4本）まで充電できるようにした充電器です。
 
 ## 使用したソフトウェア
 
@@ -21,18 +21,18 @@ KiCad 7.0
 
 | Reference            |個数|値    | 説明 |
 |----------------------|----|------|------|
-|BT1, BT2              |   2|      |[単4電池ボックス](https://akizukidenshi.com/catalog/g/gP-02670/)|
-|BT3, BT4              |   2|      |[単3電池ボックス](https://akizukidenshi.com/catalog/g/gP-00308/)|
+|BT1, BT2              |   2|      |[単4電池ボックス](https://akizukidenshi.com/catalog/g/g102670/)|
+|BT3, BT4              |   2|      |[単3電池ボックス](https://akizukidenshi.com/catalog/g/g100308/)|
 |C1, C4, C5, C6, C7, C8|   6|0.1μF|積層セラミックコンデンサー|
 |C2                    |   1|100μF|電解コンデンサー φ5[^1]|
-|C3                    |   1| 10μF|[積層セラミックコンデンサー 10μF](https://akizukidenshi.com/catalog/g/gP-03095/)|
-|D1                    |   1|[11EQS03L](https://akizukidenshi.com/catalog/g/gI-08997/)|ショットキーバリアダイオード|
-|D2, D3, D4, D5        |   4|      |[低消費赤色LED](https://akizukidenshi.com/catalog/g/gI-16914/)。眩しい場合は[LED光拡散キャップ](https://akizukidenshi.com/catalog/g/gI-01120/)が使える。|
-|F1                    |   1|  1.1A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/gP-00507/)|
-|J1                    |   1|UJC-HP-3-SMT-TR|[USB Type-C コネクター 電源供給用](https://akizukidenshi.com/catalog/g/gC-16438/)|
+|C3                    |   1| 10μF|[積層セラミックコンデンサー 10μF](https://akizukidenshi.com/catalog/g/g103095/)|
+|D1                    |   1|[11EQS03L](https://akizukidenshi.com/catalog/g/g108997/)|ショットキーバリアダイオード|
+|D2, D3, D4, D5        |   4|      |[低消費赤色LED](https://akizukidenshi.com/catalog/g/g116914/)。眩しい場合は[LED光拡散キャップ](https://akizukidenshi.com/catalog/g/g101120/)が使える。|
+|F1                    |   1|  1.1A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/g100507/)|
+|J1                    |   1|UJC-HP-3-SMT-TR|[USB Type-C コネクター 電源供給用](https://akizukidenshi.com/catalog/g/g116438/)|
 |J2                    |   1|      |ピンヘッダー 1x2、強制充電用|
 |Q1                    |   1|2SA1015||
-|Q2, Q3, Q4, Q5        |   4|[2SB834](https://akizukidenshi.com/catalog/g/gI-08747/)|裏面に取り付け。他の代替候補としては[2SA1441](https://akizukidenshi.com/catalog/g/gI-16790/)や[TTA008B](https://akizukidenshi.com/catalog/g/gI-09938/)、[2SB1185](https://akizukidenshi.com/catalog/g/gI-10994/) (h<sub>FE</sub> class E)などがある。（TTA008Bは2SB834などとはピン配置が異なるので裏返して取り付ける。）|
+|Q2, Q3, Q4, Q5        |   4|[2SB834](https://akizukidenshi.com/catalog/g/g108747/)|裏面に取り付け。他の代替候補としては[2SA1441](https://akizukidenshi.com/catalog/g/g116790/)や[TTA008B](https://akizukidenshi.com/catalog/g/g109938/)、[2SB1185](https://akizukidenshi.com/catalog/g/g110994/) (h<sub>FE</sub> class E)などがある。（TTA008Bは2SB834などとはピン配置が異なるので裏返して取り付ける。）|
 |R1, R2                |   2|5.1kΩ|緑茶赤金、小型|
 |R3                    |   1| 10kΩ|茶黒橙金、半固定抵抗RV1と同じ値|
 |R4, R5, R9, R13, R17  |   5| 10kΩ|茶黒橙金|
@@ -41,9 +41,9 @@ KiCad 7.0
 |R8, R12               |   2|  15Ω|茶緑黒金、1/2W 小型|
 |R15, R19              |   2|1.6kΩ|茶青赤金、小型|
 |R16, R20              |   2| 5.6Ω|緑青金金、1/2W 小型|
-|RV1                   |   1| 10kΩ|抵抗R3と同じ値、[GF063P](https://akizukidenshi.com/catalog/g/gP-14905/)|
-|U1                    |   1|[μPC339C](https://akizukidenshi.com/catalog/g/gI-12556/)|4回路入りコンパレーター、[LM339](https://akizukidenshi.com/catalog/g/gI-00436/)でも可|
-|U2                    |   1|[S-812C33](https://akizukidenshi.com/catalog/g/gI-03289/)|低損失CMOS三端子レギュレーター 3.3V 50mA|
+|RV1                   |   1| 10kΩ|抵抗R3と同じ値、[GF063P](https://akizukidenshi.com/catalog/g/g114905/)|
+|U1                    |   1|[μPC339C](https://akizukidenshi.com/catalog/g/g112556/)|4回路入りコンパレーター、[LM339](https://akizukidenshi.com/catalog/g/g100436/)でも可|
+|U2                    |   1|[S-812C33](https://akizukidenshi.com/catalog/g/g103289/)|低損失CMOS三端子レギュレーター 3.3V 50mA|
 
 [^1]: このサイズならば、まっすぐ足が奥まで挿せる。
 
@@ -56,7 +56,7 @@ KiCad 7.0
   - 基準電圧を5.0Vから3.3Vに変更。(U2をS-81350からS-812C33に変更。)
   - 温度補償用のダイオード1S2076A 2本をショットキーバリアダイオード1本に変更。  
     NiMH電池の充電終了時電圧には1本当たり約-3mV/Kの温度係数があります。PN接合には-2mV/Kの温度係数があることから、元の回路ではこれを3直列とし、2本分の-6mV/Kの補正を行っていました。ショットキーバリアダイオードの正確な温度係数は調べられませんでしたが、PN接合の温度係数より小さいよう(-1.0 ~ -1.5mV/K程度?)ですので、これをもって1本分の補正としています。
-* 秋月電子の[B基板](https://akizukidenshi.com/catalog/c/cboard10/)のサイズに実装できるよう、充電本数は単3、単4それぞれ2本に変更。
+* 秋月電子の[B基板](https://akizukidenshi.com/catalog/r/rboard10)のサイズに実装できるよう、充電本数は単3、単4それぞれ2本に変更。
 * 強制充電用にJ2を用意。
   - 通常充電モード: 通常、J2は接続して使います。充電終止電圧の監視が行われます。
   - 強制充電モード: J2を開放すると、Vrefは3.3Vに設定され、充電終止電圧の監視が行われません。  
